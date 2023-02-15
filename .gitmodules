@@ -4,3 +4,6 @@
 [submodule "country-client"]
 	path = country-client
 	url = git@github.com:KeligMartin/country-client.git
+[submodule "country"]
+	path = country
+	url = git@github.com:KeligMartin/country.git
