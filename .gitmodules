@@ -1,3 +1,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = git@github.com:KeligMartin/eureka-server.git
+[submodule "country-client"]
+	path = country-client
+	url = git@github.com:KeligMartin/country-client.git
